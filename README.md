@@ -1,4 +1,8 @@
 # snake-game
-This is snake game I have made using python and pygame If anyone want to devlop on this code then it can devlop this code
-This game have a bug which was when the gameovers then the game directly close 
-If anyone have knowledge of python and pygame please fix this error
+I have fix the error please use update-game.py 
+
+
+it have many cheat code like
+pressing "b" = snake-size will gets low
+pressing "LCTRL" = snake-size will get high
+pressing "K_RCTRL" = length will increase and score also
